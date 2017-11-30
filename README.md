@@ -1,6 +1,7 @@
 # Pricing-Service
 Pricing Service is a python application that would help you keep a track of an online store item that you desire to purchase and inform you via an email when the price reduces to a certain mentioned limit.  
-This application uses python 3 and mongoDB  
+This application uses python 3 and mongoDB    
+This application works well for www.johnlewis.com
 
 ## How to run
 Step 1: Download the code  
