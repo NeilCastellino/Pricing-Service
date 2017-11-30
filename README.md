@@ -4,7 +4,7 @@ This application uses python 3 and mongoDB
 
 ## How to run
 Step 1: Download the code  
-Step 2: Open a terminal and navigate to the folder outside the main code folder  
+Step 2: Open a terminal and navigate to the folder outside the main code folder ie. src  
 Step 3: Run this command
 ```
 virtualenv venv
@@ -24,6 +24,6 @@ pip install flask datetime bs4 werkzeug passlib pymongo uuid
 ```
 Step 7: Run the app
 ```
-python app.py
+python run.py
 ```
 
